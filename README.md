@@ -1,3 +1,10 @@
 # Simon-Game
 ## 一共20关
->  Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, with software programming by Lenny Cope, The device creates a series of tones and lights and requires a user to repeat the series. If the user succeeds the series becomes progressively longer and more complex. Once the user fails, the game is over. The original version was manufactured and distributed by Milton Bradley but after they went out of business, the product was taken over by Hasbro. Much of the assembly language was written by Dr. Charles Kapps, who taught computer science at Temple University and also wrote one of the first books on the theory of computer programming. Simon was launched in 1978 at Studio 54 in New York City and was an immediate success, becoming a pop culture symbol of the 1970s and 1980s.
+功能: 色块亮起的顺序是随机的.
+功能: 每次以正确的顺序点击色块后, 色块需要以原来的顺序依次亮起, 并增加一个新的序列.
+功能: 当色块自动按顺序亮起时, 以及用户点击色块时, 需要能够发出声音.
+功能: 当用户点错时, 要以不同的声音提示用户, 色块需要能以原来的顺序亮起并让用户重试.
+功能: 可以看到当前游戏中点对的色块序列的数量.
+功能: 可以通过点击一个按钮重新开始游戏, 并且游戏会重新从一个序列开始.
+功能: 可以在严格模式下游戏, 即严格模式下一旦输错任意一个序列都必须从头开始.
+功能: 在输入正确 20 个序列时获胜。将会提示胜利, 并结束游戏.
