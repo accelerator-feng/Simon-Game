@@ -1,4 +1,4 @@
-# Simon-Game[http://yinfengblog.com/Simon-Game/]
+# [Simon-Game](http://yinfengblog.com/Simon-Game/)
 
 #### 功能: 色块亮起的顺序是随机的.
 #### 功能: 每次以正确的顺序点击色块后, 色块以原来的顺序依次亮起, 并增加一个新的序列.
