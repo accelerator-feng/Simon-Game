@@ -130,7 +130,7 @@ button:active {
     width: 60px;
     position: absolute;
     left: 120px;
-    bottom: 90px;
+    bottom: 89px;
 }
 
 .strict {
@@ -138,7 +138,7 @@ button:active {
     width: 60px;
     position: absolute;
     left: 220px;
-    bottom: 90px;
+    bottom: 89px;
 }
 
 .pilot-lamp {
@@ -149,7 +149,7 @@ button:active {
     border-radius: 50%;
     border: 3px #333 solid;
     left: 23px;
-    bottom: 72px;
+    bottom: 82px;
 }
 
 .start button {
@@ -232,3 +232,4 @@ button:active {
 .unclickable {
     pointer-events: none;
 }
+
